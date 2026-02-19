@@ -14,6 +14,7 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
+	github.com/lib/pq v1.11.2
 	github.com/sosodev/duration v1.3.1 // indirect
 	github.com/stripe/stripe-go v70.15.0+incompatible
 )
